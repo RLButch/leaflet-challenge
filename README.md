@@ -10,7 +10,7 @@ HTML
 CSS
 JavaScript
 D3
-Class exercises, stack overflow, ASK BCS, tutorials, youtube tutorials
+Class exercises, stack overflow, ASK BCS, tutorials, youtube tutorials, leaflet plug ins, 
 ![earthquake map clickable object](https://github.com/RLButch/leaflet-challenge/assets/122842203/66812fe8-e9af-4749-99ba-b7916552981d)
 
 
