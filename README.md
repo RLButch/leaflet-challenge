@@ -13,4 +13,4 @@ D3
 Class exercises, stack overflow, ASK BCS, tutorials, youtube tutorials
 ![earthquake map clickable object](https://github.com/RLButch/leaflet-challenge/assets/122842203/66812fe8-e9af-4749-99ba-b7916552981d)
 
-![Alt text](<earthquake map clickable object.png>)
+
