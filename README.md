@@ -12,3 +12,4 @@ JavaScript
 D3
 Class exercises, stack overflow, ASK BCS, tutorials, youtube tutorials
 
+![Alt text](<earthquake map clickable object.png>)
